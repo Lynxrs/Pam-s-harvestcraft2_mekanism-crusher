@@ -1,3 +1,5 @@
+#author: Lynx
+
 <recipetype:mekanism:crushing>.addRecipe("crushguavasaplings", <item:pamhc2trees:guava_sapling>, <item:mekanism:bio_fuel> *3);
 <recipetype:mekanism:crushing>.addRecipe("crushalmodsaplings", <item:pamhc2trees:almond_sapling>, <item:mekanism:bio_fuel> *3);
 <recipetype:mekanism:crushing>.addRecipe( "crushapplesapl",<item:pamhc2trees:apple_sapling>, <item:mekanism:bio_fuel> *3);
@@ -35,6 +37,7 @@
 <recipetype:mekanism:crushing>.addRecipe( "crushvanillasapl",<item:pamhc2trees:vanillabean_sapling>, <item:mekanism:bio_fuel> *3);
 <recipetype:mekanism:crushing>.addRecipe( "crushwallnutsapl",<item:pamhc2trees:walnut_sapling>, <item:mekanism:bio_fuel> *3);
 
+
 <recipetype:mekanism:crushing>.addRecipe("crushguavaitem",<item:pamhc2trees:guavaitem>, <item:mekanism:bio_fuel> *4);
 <recipetype:mekanism:crushing>.addRecipe("crushwallnutitem",<item:pamhc2trees:walnutitem>, <item:mekanism:bio_fuel> *4);
 <recipetype:mekanism:crushing>.addRecipe("crushvanillaitem",<item:pamhc2trees:vanillabeanitem>, <item:mekanism:bio_fuel> *4);
@@ -66,3 +69,41 @@
 <recipetype:mekanism:crushing>.addRecipe("crushbananaitem", <item:pamhc2trees:bananaitem>, <item:mekanism:bio_fuel> *4);
 <recipetype:mekanism:crushing>.addRecipe("crushavocadoitem", <item:pamhc2trees:avocadoitem>, <item:mekanism:bio_fuel> *4);
 <recipetype:mekanism:crushing>.addRecipe("crushapricotitem",<item:pamhc2trees:almonditem>, <item:mekanism:bio_fuel> *4);
+
+
+<recipetype:mekanism:crushing>.addRecipe("crushpamalmond",<item:pamhc2trees:pamalmond>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamapple",<item:pamhc2trees:pamapple>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamapricot",<item:pamhc2trees:pamapricot>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamavocado",<item:pamhc2trees:pamavocado>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpambanana",<item:pamhc2trees:pambanana>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamacashew",<item:pamhc2trees:pamcashew>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamcherry",<item:pamhc2trees:pamcherry>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamchestnut",<item:pamhc2trees:pamchestnut>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamcinnamon",<item:pamhc2trees:pamcinnamon>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamcoconut",<item:pamhc2trees:pamcoconut>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamdate",<item:pamhc2trees:pamdate>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamdragonfruit",<item:pamhc2trees:pamdragonfruit>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamdurian",<item:pamhc2trees:pamdurian>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamfig",<item:pamhc2trees:pamfig>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamgooseberry",<item:pamhc2trees:pamgooseberry>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamgrapefruit",<item:pamhc2trees:pamgrapefruit>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamlemon",<item:pamhc2trees:pamlemon>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamlime",<item:pamhc2trees:pamlime>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpammango",<item:pamhc2trees:pammango>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpammaple",<item:pamhc2trees:pammaple>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamnutmeg",<item:pamhc2trees:pamnutmeg>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamolive",<item:pamhc2trees:pamolive>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamorange",<item:pamhc2trees:pamorange>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampapaya",<item:pamhc2trees:pampapaya>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampaperbark",<item:pamhc2trees:pampaperbark>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampeach",<item:pamhc2trees:pampeach>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampear",<item:pamhc2trees:pampear>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampecan",<item:pamhc2trees:pampecan>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampersimmon",<item:pamhc2trees:pampersimmon>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampistachio",<item:pamhc2trees:pampistachio>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamplum",<item:pamhc2trees:pamplum>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpampomegranate",<item:pamhc2trees:pampomegranate>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamspiderweb",<item:pamhc2trees:pamspiderweb>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamstarfruit",<item:pamhc2trees:pamstarfruit>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamvanillabean",<item:pamhc2trees:pamvanillabean>, <item:mekanism:bio_fuel> *5);
+<recipetype:mekanism:crushing>.addRecipe("crushpamwalnut",<item:pamhc2trees:pamwalnut>, <item:mekanism:bio_fuel> *5);
